@@ -1,3 +1,5 @@
 Hello ,
 
-Let's try this code-mentionable-for-a-role
+What  mentionable role
+
+[ mention role ]
