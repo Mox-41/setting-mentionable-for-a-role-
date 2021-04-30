@@ -1,5 +1,8 @@
 Hello ,
 
-What  mentionable role
+How i can create role with mentionable 
 
-[ mention role ]
+```js
+mentionable: true
+```
+let try this ...
