@@ -20,4 +20,4 @@ message.channel.send("done")
 it's work
 
 
-How i can edit role 
+How i can edit role and set montionble ture or fulse
